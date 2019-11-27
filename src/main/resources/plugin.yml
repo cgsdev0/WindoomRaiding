@@ -1,0 +1,6 @@
+name: WindoomRaiding
+version: 1.0-SNAPSHOT
+main: com.shaneschulte.minecraft.windoomraiding.WindoomRaiding
+author: CoolGamrSms
+depends: [Residence, CreeperHeal]
+api-version: 1.13
